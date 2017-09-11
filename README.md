@@ -1,4 +1,4 @@
-# gatsby-plugin-jss
+# gatsby-plugin-material-ui
 
 Provide drop-in support for SSR using the material-ui library (v1-beta)
 
